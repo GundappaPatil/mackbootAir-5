@@ -1,12 +1,12 @@
 import "./styles.css";
 import "bootstrap/dist/css/bootstrap.css";
 import logo from "./icons/Mask group.svg";
-import contact from "./icons/contact.png";
+import contact from "./icons/contact.svg";
 import file1 from "./icons/file1.svg";
-import doc from "./icons/doc.png";
-import page from "./icons/page.png";
-import setting from "./icons/setting.png";
-import next from "./icons/next.png";
+import doc from "./icons/doc.svg";
+import page from "./icons/page.svg";
+import setting from "./icons/setting.svg";
+import next from "./icons/next.svg";
 import "./App.css";
 
 export default function Sidenav() {
