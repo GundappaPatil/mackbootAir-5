@@ -1,0 +1,127 @@
+.item img {
+  position: absolute;
+  width: 85px;
+  height: 71px;
+  left: 0px;
+  top: 0px;
+  background-color: #29b712;
+}
+
+.verticle {
+  position: absolute;
+  top: 80px;
+  width: 85px;
+  height: 100px;
+}
+
+.verticle ul {
+  align-items: center;
+}
+
+.verticle ul li {
+  height: 80px;
+}
+
+.nav-item {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.active {
+  color: black;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.navbar {
+  position: absolute;
+  left: 87px;
+  width: 93%;
+}
+.navbar-brand {
+  border: none;
+  margin-right: 120px;
+  width: 300px;
+}
+
+.navbar-nav {
+}
+
+#navbarScroll {
+  position: absolute;
+  left: 65%;
+  margin: 0px;
+  padding: 0px;
+  /* width: 200px; */
+  /* left: 32%; */
+}
+
+.dropdown-toggle {
+  font-weight: 300;
+}
+
+.container {
+  display: grid;
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  row-gap: 32px;
+}
+
+.container-1 {
+  border-bottom: 2px solid #f1f1f1;
+}
+
+.cooper {
+  display: flex;
+  /* margin-bottom: 50px; */
+}
+.cooper h3 {
+  margin-right: 5px;
+}
+.cooper span {
+  padding-top: 10px;
+  margin-left: 10px;
+  font-size: 10px;
+}
+
+.firstrow {
+  display: flex;
+  font-size: 11px;
+}
+.subrow {
+  display: flex;
+  flex-direction: column;
+  padding-right: 50px;
+  margin-right: 10px;
+  border-right: 1px solid #6b6b6b;
+}
+
+#ecg-report {
+  border: none;
+}
+
+.report {
+  position: absolute;
+  width: 85px;
+  height: 50px;
+  color: #29b712;
+  font-weight: bold;
+}
+
+#member {
+  border: none;
+  padding-right: 50px;
+  margin-right: 210px;
+}
+
+.container-2 {
+  display: flex;
+  position: relative;
+  left: 20%;
+}
+
+.container-2 .subrow .num {
+  font-size: 15px;
+  line-height: 40%;
+}
