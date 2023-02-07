@@ -2,7 +2,7 @@ import "./styles.css";
 import "bootstrap/dist/css/bootstrap.css";
 import logo from "./icons/Mask group.svg";
 import contact from "./icons/contact.png";
-import file from "./icons/file.svg";
+import file1 from "./icons/file1.svg";
 import doc from "./icons/doc.png";
 import page from "./icons/page.png";
 import setting from "./icons/setting.png";
