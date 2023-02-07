@@ -29,7 +29,7 @@ export default function Sidenav() {
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/">
-              <img src={file} alt="contact" />
+              <img src={file1} alt="contact" />
             </a>
           </li>
           <li className="nav-item">
